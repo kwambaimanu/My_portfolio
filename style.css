@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7CAllura");
+@import url(common-css/bootstrap.css);
+@import url(common-css/fluidbox.min.css);
+@import url(common-css/ionicons.css);
+@import url(01-cv-portfolio/css/styles.css);
+@import url(01-cv-portfolio/css/responsive.css);
+.experience-section {
+    background: url(images/bg-01.jpg) no-repeat right bottom; 
+    width: 100%; 
+    background-size: cover;
+     z-index: 1;
+     overflow: hidden;
+     position: relative;
+     min-height: 450px;
+    }
+    
